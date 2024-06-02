@@ -11,7 +11,6 @@ This repository contains code for detecting fashion objects using various versio
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [YOLO Versions](#yolo-versions)
-- [Results](#results)
 
 ## Overview
 
